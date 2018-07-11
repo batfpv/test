@@ -1,3 +1,5 @@
 this is a doc
 
 Creating a new branch is quick.
+
+master
